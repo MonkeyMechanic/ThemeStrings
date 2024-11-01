@@ -1,10 +1,12 @@
 {
-    "name": "DosTerminal",
-    "description": "Original theme made by Princeblueblood",
+    "name": "DosTerminalMonochrome",
+    "description": "Original theme made by Princeblueblood, edits by TheMonkeyMechanic",
     "authors": [
         {
             "name": "Princeblueblood",
-            "id": "131929165292240896"
+            "id": "131929165292240896",
+	    "name": "TheMonkeyMechanic",
+            "id": "147537934227079178"
         }
 
     ],
